@@ -1,3 +1,6 @@
 [submodule "darknet"]
 	path = darknet
 	url = https://github.com/pjreddie/darknet
+[submodule "darknet_ros_msgs"]
+	path = darknet_ros_msgs
+	url = https://github.com/afdaniele/darknet_ros_msgs
